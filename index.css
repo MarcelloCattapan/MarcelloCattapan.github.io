@@ -245,30 +245,36 @@
   }
 } .u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('images/Marcello_Cattapan.jpg');
-  background-position: 50% 50%;
+  background-position: 50% 3.47%;
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 1088px;
+  min-height: 1047px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 722px;
+    min-height: 863px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 661px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1067px;
+    min-height: 496px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1021px;
+    min-height: 312px;
   }
 } .u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('images/bb784e0ada6ecd18b648f44f71d6811977e72452378dc36878c3d50e8401a82df977fe5b37aa758e5e3a987a747b71c86b2f3804cb3df11616bcd6_1280.jpg');
